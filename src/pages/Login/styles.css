@@ -1,0 +1,9 @@
+body {
+  background-color: #282c34;
+  display: flex;
+  justify-content: center;   
+}
+ 
+.inputStyle {
+   height: 200;
+}
